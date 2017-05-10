@@ -23,5 +23,4 @@ Things you may want to cover:
 
 * ...
 
-##Modification du readme
-#mod pour essayer ssh
+#Toutes les étapes ont été faites pour créer le set-up parfait pour m'entrainer en RoR
